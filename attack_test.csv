@@ -1,0 +1,4 @@
+packet_size,duration,protocol,src_bytes,dst_bytes
+1450,40,3,1350,1300
+1700,55,3,1600,1550
+1300,33,2,1200,1150
